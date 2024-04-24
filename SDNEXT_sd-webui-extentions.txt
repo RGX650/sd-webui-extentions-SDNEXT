@@ -1,0 +1,7 @@
+https://github.com/RGX650/sd-webui-bmab-SDNEXT
+https://github.com/RGX650/sd-webui-old-sd-firstpasser-SDNEXT
+https://github.com/RGX650/multidiffusion-upscaler-SDNEXT
+https://github.com/RGX650/sd-webui-lora-masks-SDNEXT
+https://github.com/RGX650/sd-webui-resharpen-SDNEXT
+https://github.com/RGX650/sd-webui-diffpure-SDNEXT
+https://github.com/RGX650/sd-webui-agentattention-SDNEXT
